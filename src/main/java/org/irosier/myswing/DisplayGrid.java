@@ -6,6 +6,7 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 
+/* can dn do this */
 public class DisplayGrid extends JFrame {
 	
 	public DisplayGrid(int width, int height) {
